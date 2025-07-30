@@ -1,2 +1,2 @@
 # PyRE
-Python &amp; Rule Extraction - Taller de Quantdemy
+Python &amp; 
